@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0769b3e0-b82d-4015-b512-3d73d4545ef1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>63b6dad2-2632-440a-9f16-6eb1d5965fc0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://dev.premium.enigmacamp.com/auth/login'</defaultValue>
+      <description></description>
+      <id>63b6dad2-2632-440a-9f16-6eb1d5965fc0</id>
+      <masked>false</masked>
+      <name>webUrl</name>
+   </variable>
+</TestCaseEntity>
